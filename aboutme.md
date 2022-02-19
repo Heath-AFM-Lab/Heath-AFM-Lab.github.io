@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: Developing and applying methods to study dynamics
+subtitle: Developing and applying HS-AFM methods to study biomolecular dynamics
 cover-img: "/assets/img/height spec.jpg"
 ---
 
