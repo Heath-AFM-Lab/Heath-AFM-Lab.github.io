@@ -25,7 +25,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# cover-img: "/assets/img/braile.png"
+cover-img: "/assets/img/Braile.png"
 # avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
@@ -120,7 +120,7 @@ footer-hover-col: "#0085A1"
 
 navbar-img: "/assets/img/Braile.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/Braile.png"
+#page-img: "/assets/img/Braile.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
