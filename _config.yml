@@ -16,9 +16,8 @@ author: George Heath
 navbar-links:
   Research: "aboutme"
   Publications:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Team:
+  Positions:
 
 # --- Logo --- #
 
