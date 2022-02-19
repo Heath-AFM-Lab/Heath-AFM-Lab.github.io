@@ -2,6 +2,7 @@
 layout: page
 title: Research
 subtitle: Developing and applying methods to study dynamics
+cover-img: "/assets/img/height spec.jpg"
 ---
 
 ### Introduction
