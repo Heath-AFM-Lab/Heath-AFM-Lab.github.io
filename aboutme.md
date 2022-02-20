@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: "/assets/img/AqpZ.png"
+bigimg: "/assets/img/AqpZ.png"
 ---
 
 ### Research
