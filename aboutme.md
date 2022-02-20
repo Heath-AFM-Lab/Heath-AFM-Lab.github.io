@@ -2,7 +2,6 @@
 layout: page
 title: Research
 cover-img: /assets/img/AqpZ.png
-share-title: Research2
 ---
 
 The rapid expansion in the structural understanding of proteins through recent progress in electron microscopy and X-ray crystallography is leading to an ever-greater need for techniques which give high temporal resolution dynamics. High-Speed Atomic Force Microscopy (HS-AFM) provides unprecedented real-space and real-time visualisation of biological molecules (<1 nm lateral, ~0.1 nm vertical and >100 ms temporal resolution). My research interests are focused on developing techniques to study the structure and dynamics of biomolecules at previously inaccessible time and spatial resolutions using atomic force microscopy. In doing this we aim use physics and physical tools to better understand biological processes related to health and disease.
