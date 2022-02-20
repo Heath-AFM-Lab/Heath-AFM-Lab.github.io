@@ -41,12 +41,12 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "g.r.heath@leeds.ac.uk"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
-  github: "github.com/George-R-Heath"
+  github: George-R-Heath
   twitter: George_R_Heath
 # patreon: DeanAttali
-  youtube: c/daattali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -62,8 +62,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-  google-scholar: https://scholar.google.ca/citations?user=Ra09PtQAAAAJ&hl=en
+# ORCID: your ORCID ID
+  google-scholar: George R Heath
 #  discord: invite/invite_code or users/userid 
 
 # If you want your website to generate an RSS feed, provide a description
@@ -81,7 +81,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
