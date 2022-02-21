@@ -119,7 +119,7 @@ footer-hover-col: "#D2691E"
 # instead of colour
 
 navbar-img: "/assets/img/hs_trace.png"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/UoL.png"
 #page-img: "/assets/img/Braile.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
