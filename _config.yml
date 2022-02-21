@@ -14,7 +14,7 @@ author: George Heath
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research: "aboutme"
+  Research: "research"
   Publications: "publications"
   Software: "software"
   Team: "team"
