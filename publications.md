@@ -5,38 +5,44 @@ cover-img: /assets/img/Braile.png
 ---
 
 ## 2022
+Tuning the rate of aggregation of hIAPP into amyloid using smallmolecule modulators of assembly <br /> 
+Y Xu, R Maya-Martinez, N Guthertz, GR Heath, IW Manfield, A Breeze, F Sobott, R Foster, SE Radford.
+Nature Communications (2022 In press)
 
 ## 2021
 [Correlation of membrane protein conformational and functional dynamics](https://www.nature.com/articles/s41467-021-24660-1)  <br /> 
-Sanganna Gari RR, Montalvo‐Acosta JJ, Heath GR, Jiang Y, Gao X, Nimigea CM, Chipot C, Scheuring S. <br /> 
-Nature Communications. 12, 4363 (2021).
+Sanganna Gari RR, Montalvo‐Acosta JJ, Heath GR, Jiang Y, Gao X, Nimigea CM, Chipot C, Scheuring S. *Nature Communications*. 12, 4363 (2021).
 
 [Localization Atomic Force Microscopy](https://www.nature.com/articles/s41586-021-03551-x) <br /> 
-Heath GR, Kots E, Robertson JL, Lansky S, G Khelashvili, Weinstein H & Scheuring S. <br /> 
-Nature, 594, 7863 (2021).
+Heath GR, Kots E, Robertson JL, Lansky S, G Khelashvili, Weinstein H & Scheuring S.
+*Nature*, 594, 7863 (2021).
 
-The structure of a native orthobunyavirus ribonucleoprotein reveals a key role for viral RNA in maintaining its helical architecture.<br /> 
-Hopkins FR, Álvarez-Rodríguez B, Heath GR, Panayi K, Hover S, Edwards TA, Barr JN and Fontana J.<br /> 
-bioRxiv, (2021).
+[The structure of a native orthobunyavirus ribonucleoprotein reveals a key role for viral RNA in maintaining its helical architecture](https://www.biorxiv.org/content/10.1101/2021.10.27.466080v1.full)<br /> 
+Hopkins FR, Álvarez-Rodríguez B, Heath GR, Panayi K, Hover S, Edwards TA, Barr JN and Fontana J.*bioRxiv*, (2021).
 
 [Structural dynamics of channels and transporters by high-speed atomic force microscopy.](https://www.sciencedirect.com/science/article/abs/pii/S0076687921001245?via%3Dihub) <br /> 
-Heath GR, Lin YC, Matin TR and Scheuring S. <br /> 
-Ion Channels: Channel Biochemistry, Reconstitution, and Function. 127, (2021).
+Heath GR, Lin YC, Matin TR and Scheuring S. *Ion Channels: Channel Biochemistry, Reconstitution, and Function*. 127, (2021).
 
 ## 2020
-Gallardo R, Iadanza MG, Xu Y, Heath GR, Foster R, Radford SE & Ranson NA. Fibril structures of diabetes-related amylin variants reveal a basis for surface-templated assembly. Nat. Struct. Mol. Biol. Cover article (2020), 27 (11).
+[Fibril structures of diabetes-related amylin variants reveal a basis for surface-templated assembly](https://www.nature.com/articles/s41594-020-0496-3)
+<br />  Gallardo R, Iadanza MG, Xu Y, Heath GR, Foster R, Radford SE & Ranson NA. *Nature Structure and Molecular Biology*, Cover article, 27 (11), (2020).
 
-Matin TR*, Heath GR*, Huysmans, GH, Boudker O & Scheuring S. Millisecond dynamics of an unlabeled amino acid transporter. Nat. Commun. (2020) 11(1), 1-11.
+[Millisecond dynamics of an unlabeled amino acid transporter](https://www.nature.com/articles/s41467-020-18811-z) <br /> 
+Matin TR*, Heath GR*, Huysmans, GH, Boudker O & Scheuring S. *Nature Communications* 11(1) 1-11 (2020).
 
-Cheetham MR, Griffiths J, Nijs BD, Heath GR, Evans SD, Baumberg JJ & Chikkaraddy R. Out-of-Plane Nanoscale Reorganization of Lipid Molecules and Nanoparticles Revealed by Plasmonic Spectroscopy. J Phys. Chem. Lett. (2020) 11, 8.
+[Out-of-Plane Nanoscale Reorganization of Lipid Molecules and Nanoparticles Revealed by Plasmonic Spectroscopy](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.0c00182) <br /> 
+Cheetham MR, Griffiths J, Nijs BD, Heath GR, Evans SD, Baumberg JJ & Chikkaraddy R. J *Phys. Chem. Lett.* 11, 8, (2020).
 
 ## 2019
-Heath GR & Scheuring S. Advances in high-speed atomic force microscopy (HS-AFM) reveal dynamics of transmembrane channels and transporters. Curr. Opin. Struct. Biol. (2019) 57.
+Advances in high-speed atomic force microscopy (HS-AFM) reveal dynamics of transmembrane channels and transporters.
+Heath GR & Scheuring S. *Current Opinions in Structural Biology* 57,  (2019).
 
 ## 2018
-Heath GR & Scheuring S. High-Speed AFM Height Spectroscopy (HS-AFM-HS): μs dynamics of unlabeled biomolecules. Nat. Commun. 9, 1 (2018)
+High-Speed AFM Height Spectroscopy (HS-AFM-HS): μs dynamics of unlabeled biomolecules. 
+Heath GR & Scheuring S. Nature Communications. 9, 1 (2018)
 
-Heath GR, Harrison P. L, Strong P. N, Evans S. D, Miller K. Visualization of diffusion limited antimicrobial peptide attack on supported lipid membranes. Soft Matter. (2018) 14, 29.
+Visualization of diffusion limited antimicrobial peptide attack on supported lipid membranes. 
+Heath GR, Harrison P. L, Strong P. N, Evans S. D, Miller K. Soft Matter. (2018) 14, 29.
 
 ## 2017
 Heath GR, Li M, Rong H, Radu V, Frielingsdorf S et al. Multilayered Lipid Membrane Stacks for Biocatalysis Using Membrane Enzymes. Adv. Funct, Mater. Cover article (2017) 27, 17.
