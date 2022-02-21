@@ -3,6 +3,10 @@ layout: page
 title: Publications
 cover-img: /assets/img/Braile.png
 ---
+<p align="center"> 
+<a href="https://scholar.google.ca/citations?user=Ra09PtQAAAAJ&hl=en">Google Scholar page</a> <br /><a href="https://www.researchgate.net/profile/George-Heath-3">ResearchGate page</a> 
+</p>
+
 
 ## 2022
 Tuning the rate of aggregation of hIAPP into amyloid using smallmolecule modulators of assembly <br /> 
@@ -71,6 +75,3 @@ Kong Y, Chen J, Gao F, Brydson R, Johnson B, Heath G, et al. Near-infrared fluor
 
 Connell SD, Heath G, Olmsted PD, Kisil A. Critical point fluctuations in supported lipid membranes. Faraday Discussions. (2012) 161.
 
-<p align="center"> 
-<a href="https://scholar.google.ca/citations?user=Ra09PtQAAAAJ&hl=en">Google Scholar page</a> 
-</p>
