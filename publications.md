@@ -3,6 +3,8 @@ layout: page
 title: Publications
 cover-img: /assets/img/Braile.png
 ---
+[George Heath's Google Scholar page](https://scholar.google.ca/citations?user=Ra09PtQAAAAJ&hl=en)
+
 ## 2022
 
 ## 2021
