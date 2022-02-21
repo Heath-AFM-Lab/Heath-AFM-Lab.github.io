@@ -3,18 +3,25 @@ layout: page
 title: Publications
 cover-img: /assets/img/Braile.png
 ---
-[George Heath's Google Scholar page](https://scholar.google.ca/citations?user=Ra09PtQAAAAJ&hl=en)
 
 ## 2022
 
 ## 2021
-Sanganna Gari RR, Montalvo‐Acosta JJ, Heath GR, Jiang Y, Gao X, Nimigea CM, Chipot C, Scheuring S. Correlation of membrane protein conformational and functional dynamics. Nat. Commun. (2021), 12, 4363.
+[Correlation of membrane protein conformational and functional dynamics](https://www.nature.com/articles/s41467-021-24660-1)  <br /> 
+Sanganna Gari RR, Montalvo‐Acosta JJ, Heath GR, Jiang Y, Gao X, Nimigea CM, Chipot C, Scheuring S. <br /> 
+Nature Communications. 12, 4363 (2021).
 
-Heath GR, Kots E, Robertson JL, Lansky S, G Khelashvili, Weinstein H & Scheuring S. Localization Atomic Force Microscopy. Nature, (2021), 594, 7863.
+[Localization Atomic Force Microscopy](https://www.nature.com/articles/s41586-021-03551-x) <br /> 
+Heath GR, Kots E, Robertson JL, Lansky S, G Khelashvili, Weinstein H & Scheuring S. <br /> 
+Nature, 594, 7863 (2021).
 
-Hopkins FR, Álvarez-Rodríguez B, Heath GR, Panayi K, Hover S, Edwards TA, Barr JN and Fontana J. The structure of a native orthobunyavirus ribonucleoprotein reveals a key role for viral RNA in maintaining its helical architecture. bioRxiv. (2021).
+The structure of a native orthobunyavirus ribonucleoprotein reveals a key role for viral RNA in maintaining its helical architecture.<br /> 
+Hopkins FR, Álvarez-Rodríguez B, Heath GR, Panayi K, Hover S, Edwards TA, Barr JN and Fontana J.<br /> 
+bioRxiv, (2021).
 
-Heath GR, Lin YC, Matin TR and Scheuring S. Structural dynamics of channels and transporters by high-speed atomic force microscopy. Ion Channels: Channel Biochemistry, Reconstitution, and Function. (2021) 127.
+[Structural dynamics of channels and transporters by high-speed atomic force microscopy.](https://www.sciencedirect.com/science/article/abs/pii/S0076687921001245?via%3Dihub) <br /> 
+Heath GR, Lin YC, Matin TR and Scheuring S. <br /> 
+Ion Channels: Channel Biochemistry, Reconstitution, and Function. 127, (2021).
 
 ## 2020
 Gallardo R, Iadanza MG, Xu Y, Heath GR, Foster R, Radford SE & Ranson NA. Fibril structures of diabetes-related amylin variants reveal a basis for surface-templated assembly. Nat. Struct. Mol. Biol. Cover article (2020), 27 (11).
@@ -57,3 +64,7 @@ Heath GR, Johnson BRG, Olmsted PD, Connell SD, Evans SD. Actin assembly at model
 Kong Y, Chen J, Gao F, Brydson R, Johnson B, Heath G, et al. Near-infrared fluorescent ribonuclease-A-encapsulated gold nanoclusters: Preparation, characterization, cancer targeting and imaging. Nanoscale. (2013) 5, 3. 
 
 Connell SD, Heath G, Olmsted PD, Kisil A. Critical point fluctuations in supported lipid membranes. Faraday Discussions. (2012) 161.
+
+<p align="center"> 
+<a href="https://scholar.google.ca/citations?user=Ra09PtQAAAAJ&hl=en">Google Scholar page</a> 
+</p>
