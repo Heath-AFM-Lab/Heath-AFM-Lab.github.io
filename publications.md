@@ -4,7 +4,8 @@ title: Publications
 cover-img: /assets/img/Braile.png
 ---
 <p align="center"> 
-<a href="https://scholar.google.ca/citations?user=Ra09PtQAAAAJ&hl=en">Google Scholar page</a> <br /><a href="https://www.researchgate.net/profile/George-Heath-3">ResearchGate page</a> 
+Publications also avaliable via:  <br /> 
+<a href="https://scholar.google.ca/citations?user=Ra09PtQAAAAJ&hl=en">Google Scholar page</a> <br /> <a href="https://www.researchgate.net/profile/George-Heath-3">ResearchGate page</a> 
 </p>
 
 
@@ -53,34 +54,37 @@ Heath GR, Harrison P. L, Strong P. N, Evans S. D, Miller K. *Soft Matter*, 14, 2
 Heath GR, Li M, Rong H, Radu V, Frielingsdorf S et al. *Advanced Functional Materials*, Cover article, 27, 17, (2017).
 
 ## 2016
-[Phospholipid dependent mechanism of smp24, an α-helical antimicrobial peptide from scorpion venom](https://www.sciencedirect.com/science/article/pii/S0005273616302711)
+[Phospholipid dependent mechanism of smp24, an α-helical antimicrobial peptide from scorpion venom](https://www.sciencedirect.com/science/article/pii/S0005273616302711)<br />
 Harrison PL, Heath GR, Johnson BRG, Abdel-Rahman MA, Strong PN et. al. *BBA Biomembranes*, 1858, 11, (2016).
 
-[Highly Fluorescent Ribonuclease-A-Encapsulated Lead Sulfide Quantum Dots for Ultrasensitive fluorescence in Vivo Imaging in the Second Near-Infrared Window](https://pubs.acs.org/doi/10.1021/acs.chemmater.6b00208)
+[Highly Fluorescent Ribonuclease-A-Encapsulated Lead Sulfide Quantum Dots for Ultrasensitive fluorescence in Vivo Imaging in the Second Near-Infrared Window](https://pubs.acs.org/doi/10.1021/acs.chemmater.6b00208)<br />
 Kong Y, Chen J, Fang H, Heath GR, Wo Y, Wang W, et al. *Chem. Mater.* 28, 9, (2016).
 
-[Layer-by-layer assembly of supported lipid bilayer poly-l-lysine multilayers](https://pubs.acs.org/doi/10.1021/acs.biomac.5b01434)
+[Layer-by-layer assembly of supported lipid bilayer poly-l-lysine multilayers](https://pubs.acs.org/doi/10.1021/acs.biomac.5b01434)<br />
 Heath GR, Li M, Polignano IL, Richens JL, Catucci G et al. *Biomacromolecules*, 17, 1, (2016).
 
 ## 2015
-[New poly(amino acid methacrylate) brush supports the formation of well-defined lipid membranes](https://pubs.acs.org/doi/10.1021/la504163s)
+[New poly(amino acid methacrylate) brush supports the formation of well-defined lipid membranes](https://pubs.acs.org/doi/10.1021/la504163s)<br />
 Blakeston AC, Alswieleh AM, Heath GR, Roth JS, Bao P, Cheng N, et al. *Langmuir*, 31, 12, (2015).
 
 ## 2014
-[Diffusion in low-dimensional lipid membranes](https://pubs.acs.org/doi/abs/10.1021/nl503024v)
+[Diffusion in low-dimensional lipid membranes](https://pubs.acs.org/doi/abs/10.1021/nl503024v)<br />
 Heath GR, Roth J, Connell SD, Evans SD. *Nano Letters*, 14, 10, (2014).
 
-[Watching individual molecules flex within lipid membranes using SERS](https://www.nature.com/articles/srep05940)
+[Watching individual molecules flex within lipid membranes using SERS](https://www.nature.com/articles/srep05940)<br />
 Taylor RW, Benz F, Sigle DO, Bowman RW, Bao P, Roth JS, Heath GR, et. al. *Scientific Reports*, 4, (2014).
 
-Self-assembly of actin scaffolds on lipid microbubbles
-Heath GR, Abou-Saleh RH, Peyman SA, Johnson BRG, Connell SD, Evans SD. Soft Matter. Cover article (2014) 10, 5.
+[Self-assembly of actin scaffolds on lipid microbubbles](https://pubs.rsc.org/en/content/articlelanding/2014/sm/c3sm52199k)<br />
+Heath GR, Abou-Saleh RH, Peyman SA, Johnson BRG, Connell SD, Evans SD. *Soft Matter*, Cover article 10, 5, (2014).
 
 ## 2013
-[Actin assembly at model-supported lipid bilayers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3838754/)
+[Actin assembly at model-supported lipid bilayers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3838754/)<br />
 Heath GR, Johnson BRG, Olmsted PD, Connell SD, Evans SD. *Biophys Journal*, 105, 10, (2013).
 
-Kong Y, Chen J, Gao F, Brydson R, Johnson B, Heath G, et al. Near-infrared fluorescent ribonuclease-A-encapsulated gold nanoclusters: Preparation, characterization, cancer targeting and imaging. Nanoscale. (2013) 5, 3. 
+[Near-infrared fluorescent ribonuclease-A-encapsulated gold nanoclusters: Preparation, characterization, cancer targeting and imaging](https://pubs.rsc.org/en/content/articlelanding/2013/NR/C2NR32760K)<br />
+Kong Y, Chen J, Gao F, Brydson R, Johnson B, Heath G, et al. *Nanoscale*, 5, 3, (2013).
 
-Connell SD, Heath G, Olmsted PD, Kisil A. Critical point fluctuations in supported lipid membranes. Faraday Discussions. (2012) 161.
+## 2012
 
+[Critical point fluctuations in supported lipid membranes](https://pubs.rsc.org/en/content/articlelanding/2013/FD/C2FD20119D)<br />
+Connell SD, Heath G, Olmsted PD, Kisil A. *Faraday Discussions*, 161, (2012).
