@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Software
+title: <span style="font-family: 'Courier New', monospace;">Software!</span>
 cover-img: /assets/img/Braile.png
 ---
-Codes developed for analyzing AFM data
+Open codes developed for analyzing AFM data
 
 ## AFM LineScan Analyzer
 kymograph analysis...
