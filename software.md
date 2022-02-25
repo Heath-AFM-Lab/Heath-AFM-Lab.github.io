@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <span style="font-family: 'Courier New', monospace;">Software!</span>
+title: Software
 cover-img: /assets/img/Braile.png
 ---
 Open codes developed for analyzing AFM data
