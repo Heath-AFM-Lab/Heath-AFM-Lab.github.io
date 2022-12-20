@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Team
+title: Meet the Team
 ---
-     
      
 ## George Heath
 <img src="/assets/img/george.jpg" 
