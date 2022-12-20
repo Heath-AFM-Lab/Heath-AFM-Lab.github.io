@@ -13,6 +13,9 @@ title: Meet the Team
 
 
 ## Abeer
-
-## Tabby
- 
+ <center><p> PhD student
+  <p> High-Speed AFM of membrane proteins</center>
+  
+## Tabitha
+  <center><p> PhD student
+  <p> Development of High-Speed AFM methods</center>
