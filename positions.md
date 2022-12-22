@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 
 cover-img: /assets/img/tips.jpeg
 ---
-## PhD Positions
+<h2>PhD Positions</h2>
 * [Pushing the Resolution Limits of High-Speed Atomic Force Microscopy](https://phd.leeds.ac.uk/project/836-pushing-the-resolution-limits-of-high-speed-atomic-force-microscopy)   
 Closing Date: Ongoing   
 Start Date: 1st Oct 2023 
@@ -12,5 +11,5 @@ Start Date: 1st Oct 2023
 Closing Date: 11th Jan 2023   
 Start Date: 1st Oct 2023 
 
-## Postdoctoral Positions
+<h2>Postdoctoral Positions</h2>
 Coming early 2023
