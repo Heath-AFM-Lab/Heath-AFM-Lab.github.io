@@ -23,10 +23,10 @@ title: Meet the Team
   <div class="image-container">
     <img src="/assets/img/george.jpg" alt="Image 1">
      <div>
-<h2>George Heath</h2>
-    <p>Team Leader - University Academic Fellow 
+    <h2>George Heath</h2>
+    <p>Team Leader - University Academic Fellow </p>   
   <p> School of Physics and Astronomy and School of Biomedical Sciences</p>
-  </div>
+     </div>
   </div>
 
   <div class="image-container">
