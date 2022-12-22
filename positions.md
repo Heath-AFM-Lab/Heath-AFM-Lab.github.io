@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 
 cover-img: /assets/img/tips.jpeg
 ---
 ## PhD Positions
