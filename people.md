@@ -29,22 +29,25 @@ title: Meet the Team
      </div>
   </div>
 
+ <br>
+  
   <div class="image-container">
     <img src="/assets/img/BlankProfile.jpg" alt="Image 2">
      <div>
 <h2>Abeer</h2>
-    <p>PhD Student</p>
-        <p>High-Speed AFM of membrane proteins</p>
+    <p style="line-height:1">PhD Student</p>
+        <p style="line-height:1">High-Speed AFM of membrane proteins</p>
      </div>
   </div>
-
+  
+<br>
 
   <div class="image-container">
     <img src="/assets/img/BlankProfile.jpg" alt="Image 2">
      <div>
 <h2>Tabitha</h2>
-    <p>PhD Student</p>
-        <p>Development of High-Speed AFM methods</p>
+    <p style="line-height:0.5">PhD Student</p>
+        <p style="line-height:0.5"> Development of High-Speed AFM methods</p>
      </div>
   </div>
 
