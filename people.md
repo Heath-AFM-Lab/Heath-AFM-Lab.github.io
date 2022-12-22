@@ -30,8 +30,9 @@ title: Meet the Team
     <img src="/assets/img/george.jpg" alt="Image 1">
      <div>
     <h2>George Heath</h2>
-    <p>Team Leader - University Academic Fellow </p>   
-  <p> School of Physics and Astronomy and School of Biomedical Sciences</p>
+    <h4>Team Leader - University Academic Fellow </h4>   
+  <p> School of Physics and Astronomy   </p>
+   <p> School of Biomedical Sciences</p>
      </div>
   </div>
 
@@ -41,8 +42,8 @@ title: Meet the Team
     <img src="/assets/img/BlankProfile.jpg" alt="Image 2">
      <div>
 <h2>Abeer</h2>
-    <p style="line-height:1">PhD Student</p>
-        <p style="line-height:1">High-Speed AFM of membrane proteins</p>
+    <h4>PhD Student</h4>
+        <p>High-Speed AFM of membrane proteins</p>
      </div>
   </div>
   
@@ -52,7 +53,7 @@ title: Meet the Team
     <img src="/assets/img/BlankProfile.jpg" alt="Image 2">
      <div>
 <h2>Tabitha</h2>
-    <p>PhD Student</p>
+    <h4>PhD Student</h4>
         <p> Development of High-Speed AFM methods</p>
      </div>
   </div>
