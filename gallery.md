@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-cover-img: /assets/img/Braile.png
+cover-img: /assets/img/tape.jpeg
 ---
 ## HS-AFM Videos
  <head>
