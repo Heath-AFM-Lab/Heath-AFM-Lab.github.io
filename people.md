@@ -2,7 +2,6 @@
 layout: page
 title: Meet the Team
 ---
-<!DOCTYPE html>
 <html>
 <head>
   <style>
@@ -23,24 +22,32 @@ title: Meet the Team
 <body>
   <div class="image-container">
     <img src="/assets/img/george.jpg" alt="Image 1">
-<h2> George Heath</h2>
+     <div>
+<h2>George Heath</h2>
     <p>Team Leader - University Academic Fellow 
   <p> School of Physics and Astronomy and School of Biomedical Sciences</p>
   </div>
-  <div class="image-container">
-    <img src="image2.jpg" alt="Image 2">
-    <p>This is some text associated with image 2</p>
   </div>
+
+  <div class="image-container">
+    <img src="/assets/img/BlankProfile.jpg" alt="Image 2">
+     <div>
+<h2>Abeer</h2>
+    <p>PhD Student</p>
+        <p>High-Speed AFM of membrane proteins</p>
+     </div>
+  </div>
+
+
+  <div class="image-container">
+    <img src="/assets/img/BlankProfile.jpg" alt="Image 2">
+     <div>
+<h2>Tabitha</h2>
+    <p>PhD Student</p>
+        <p>Development of High-Speed AFM methods</p>
+     </div>
+  </div>
+
+
 </body>
 </html>
-
-
-
-
-## Abeer
- <center><p> PhD student
-  <p> High-Speed AFM of membrane proteins</center>
-  
-## Tabitha
-  <center><p> PhD student
-  <p> Development of High-Speed AFM methods</center>
