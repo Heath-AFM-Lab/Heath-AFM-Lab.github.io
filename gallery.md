@@ -19,4 +19,4 @@ img {
 
 ## Youtube Videos
 Localization Atomic Force Microscopy   
-<iframe width="320" height="180" src="https://www.youtube.com/embed/YhIELjy4fak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe  class="embedded-video-16-9" src="https://www.youtube.com/embed/YhIELjy4fak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
