@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-cover-img: /assets/img/Braile.png
+cover-img: /assets/img/publications.png
 ---
 <p align="center"> 
 Publications also avaliable via:  <br /> 
