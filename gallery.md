@@ -16,4 +16,6 @@ img {
 </head>
 <img src="/assets/img/CLC.gif" alt="CLC" style="width:50%;">
  <br /> 
-## Link to Youtube tutorials
+
+## Youtube Videos
+<iframe width="640" height="360" src="https://www.youtube.com/embed/watch?v=YhIELjy4fak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
