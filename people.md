@@ -6,6 +6,12 @@ title: Meet the Team
 <head>
   <style>
     /* Add some styling to make the layout look nice */
+   
+  p {
+    margin: 0;
+    line-height: 1.5;
+  }
+    
     .image-container {
       display: flex;
       align-items: center;
@@ -46,8 +52,8 @@ title: Meet the Team
     <img src="/assets/img/BlankProfile.jpg" alt="Image 2">
      <div>
 <h2>Tabitha</h2>
-    <p style="line-height:0.5">PhD Student</p>
-        <p style="line-height:0.5"> Development of High-Speed AFM methods</p>
+    <p>PhD Student</p>
+        <p> Development of High-Speed AFM methods</p>
      </div>
   </div>
 
