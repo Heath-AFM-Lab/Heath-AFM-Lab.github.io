@@ -19,15 +19,7 @@ img {
 
 ## Youtube Videos
  
-<div class="wrapper">
-    <div class="h_iframe">
-        <!-- a transparent image is preferable -->
-        <img class="ratio" src="/assets/img/16 9.png">
-        <iframe src="http://www.youtube.com/embed/YhIELjy4fak" frameborder="2" allowfullscreen></iframe>
-    </div>
-    <p>Localization Atomic Force Microscopy video abstract</p>
-</div>
-
  <br /> 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/YhIELjy4fak" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400px" height = "300px" src="https://www.youtube.com/embed/YhIELjy4fak" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <p>Localization Atomic Force Microscopy video abstract</p>
  <br /> 
