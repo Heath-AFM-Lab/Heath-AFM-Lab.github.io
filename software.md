@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-cover-img: /assets/img/Braile.png
+cover-img: /assets/img/software.gif
 ---
 <style>
   body {
