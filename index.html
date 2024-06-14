@@ -3,17 +3,63 @@ layout: home
 title: Heath Lab 
 cover-img: /assets/img/LAFM Aqpz.gif
 --- 
-<style> p { margin: 0; line-height: 1.5; } </style> 
-<h2><center> Welcome to the Heath AFM Lab research website</h2> <br /> </center>
-<p> We perform and develop high-speed atomic force microscopy (HS-AFM) to study the dynamics of proteins, lipids and other biomolecules.
-HS-AFM is a powerful tool for studying the surface properties of biomaterials across lengthscales. 
- Currently methods allow high-speed imaging at 70 frames per second, line scanning at milisecond timescales and single point recordings (Height Spectroscopy) at microseconds resolution.
- We have also developed methods to improve spatial resolution down to 4Å.
-</p>
+<style> 
+  p { margin: 0; line-height: 1.5; } 
+  h2 { text-align: center; }
+  .content { text-align: center; }
+  .news-section { text-align: center; margin-top: 20px; }
+  .news-reel { text-align: left; margin: 0 auto; max-width: 800px; }
+  .news-item { margin-bottom: 15px; }
+  .logo { float: right; width: 200px; margin-top: 20px; }
+  h1, h2, h3, h4, h5, h6 {
+    color: #FFA500;
+    border-bottom: 2px solid #FFA500; /* Bright orange border */
+    padding-bottom: 5px; /* Adds space between the text and the border */
+  }
+</style>
 
-  <br /> 
-<h2> <a href="https://twitter.com/George_R_Heath?ref_src=twsrc%5Etfw">News from twitter:</a></h2>
- <br /> 
-<a class="twitter-timeline" data-width="800" data-height="600" data-theme="dark" href="https://twitter.com/George_R_Heath?ref_src=twsrc%5Etfw">Tweets by George_R_Heath</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- <br /> 
-<img src="/assets/img/UoL.png" alt="UoL"; style="float:right;width:200px;">
+<h2>Welcome to the Heath AFM Lab Research Website</h2>
+
+<div class="content">
+  <p>
+    Our lab specializes in high-speed atomic force microscopy (HS-AFM) to study the dynamics of proteins, lipids, and other biomolecules.
+    HS-AFM is a powerful tool for examining the surface properties of biomaterials across various length scales. 
+    Our methods enable high-speed imaging at 70 frames per second, line scanning at millisecond timescales, and single-point recordings (Height Spectroscopy) at microsecond resolution. 
+    Additionally, we have developed techniques to enhance spatial resolution down to 4Å.
+  </p>
+</div>
+
+<div class="news-section">
+  <h2>Lab News</h2>
+  <div class="news-reel">
+    <div class="news-item">
+     <h3><a href="https://github.com/George-R-Heath/NanoLocz">05.05.2024 NanoLocz Software Update - Version 1.20</a></h3>
+     <ul>
+  <li><strong>Processing speed</strong> - Improved app start-up speed and speed increases for Particle Detection, LAFM, and Particle Assembly steps.</li>
+  <li><strong>AutoSaving</strong> - Choose output folder and preferred file format first.</li>
+  <li><strong>Improved Saving</strong> - Including batch export.</li>
+  <li><strong>Batch levelling</strong> - Set levelling options (auto or manual) in preview mode and then run batch save.</li>
+  <li><strong>HDF5 (.h5) export/input</strong> - A more accessible file format (can be opened with Python).</li>
+  <li><strong>Set Preferences</strong> - NanoLocz remembers preferred Output/Input folders and other settings.</li>
+  <li><strong>Jpk file opener</strong> - Error fixed.</li>
+  <li><strong>asd file opener</strong> - Reading of 'Only Trace Imaging' files enabled.</li>
+  <li><strong>Line Profile snap to angle</strong> - Hold 'shift' when drawing line profiles to snap to the nearest 45 degrees.</li>
+  <li><strong>New pre-set auto levelling options</strong></li>
+  <li><strong>Recalculate correlation button</strong> - Recalculates the correlation between particles and the selected reference image, useful for excluding poorly matching particles after Fine Align (Fine align tab).</li>
+</ul>
+    </div>
+    <div class="news-item">
+      <h3>RMS AFM & SPM conference in Durham</h3>
+    <p> A great finish to a fantastic week of AFM/SPM at the RMS AFM & SPM conference in Durham with the last talk given by PhD student Maya Tekchandani <a href="#">Learn more...</a></p>
+     
+    </div>
+    <div class="news-item">
+      <h3>New Member of the Lab</h3>
+      <p>Thrilled to welcome Dr Varun Gupta to our research team as our newest and 1st Postdoc! Together with his AFM expertise we will push AFM methods in exciting new directions. <a href="#">Details...</a></p>
+    </div>
+  </div>
+</div>
+
+<img src="/assets/img/UoL.png" alt="UoL Logo" class="logo">
+
+
