@@ -27,7 +27,7 @@ title: Meet the Team
 </head>
 <body>
   <div class="image-container">
-    <img src="/assets/img/george.jpg" alt="Image 1">
+    <img src="/assets/img/george.jpg" alt="George Heath">
      <div>
     <h2>George Heath</h2>
     <h4>Team Leader - University Academic Fellow </h4>   
@@ -41,7 +41,7 @@ title: Meet the Team
   <div class="image-container">
     <img src="/assets/img/BlankProfile.jpg" alt="Image 2">
      <div>
-<h2>Abeer</h2>
+<h2>Abeer Alshammari</h2>
     <h4>PhD Student</h4>
         <p>High-Speed AFM of membrane proteins</p>
      </div>
@@ -50,11 +50,41 @@ title: Meet the Team
 <br>
 
   <div class="image-container">
-    <img src="/assets/img/BlankProfile.jpg" alt="Image 2">
+    <img src="/assets/img/tabby.jpg" alt="Tabby">
      <div>
-<h2>Tabitha</h2>
+<h2>Tabitha Storer</h2>
     <h4>PhD Student</h4>
-        <p> Development of High-Speed AFM methods</p>
+        <p> Development of Localization AFM and High-Speed AFM methods</p>
+     </div>
+  </div>
+  
+  <br>
+    <div class="image-container">
+    <img src="/assets/img/BlankProfile.jpg" alt="Maya">
+     <div>
+<h2>Maya Tekchandani</h2>
+    <h4>PhD Student</h4>
+        <p> Development of AFM methods</p>
+     </div>
+  </div>
+
+  <br>
+  <div class="image-container">
+    <img src="/assets/img/Varun.jpeg" alt="Varun Gupta">
+     <div>
+<h2>Varun Gupta</h2>
+    <h4>PostDoct</h4>
+        <p> Development of Localization AFM methods</p>
+     </div>
+  </div>
+
+  <br>
+ <div class="image-container">
+    <img src="/assets/img/Lekshmi.jpg" alt="Image 2">
+     <div>
+<h2>Lekshmi Kailas</h2>
+    <h4>AFM Experimental Officer</h4>
+        <p>  </p>
      </div>
   </div>
 
