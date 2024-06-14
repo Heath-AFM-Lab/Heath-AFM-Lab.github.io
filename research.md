@@ -9,7 +9,7 @@ cover-img: /assets/img/hs_trace.png
     color: white;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h2, h3, h4, h5, h6 {
     color: #FFA500;
   border-bottom: 2px solid #FFA500; /* Bright orange border */
   padding-bottom: 5px; /* Adds space between the text and the border */
@@ -17,7 +17,6 @@ cover-img: /assets/img/hs_trace.png
 
 </style>
 
-## Research areas 
 - [Structural Dynamics of Single Molecules](#structural-dynamics-of-single-molecules)
 - [AFM Software](#afm-software)
 - [Localization AFM](#localization-afm)
