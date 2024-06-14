@@ -2,16 +2,48 @@
 layout: page
 cover-img: /assets/img/publications.png
 ---
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #FFA500;
+  border-bottom: 2px solid #FFA500; /* Bright orange border */
+  padding-bottom: 5px; /* Adds space between the text and the border */
+  }
+
+</style>
+
+
 <p align="center"> 
 Publications also avaliable via:  <br /> 
 <a href="https://scholar.google.ca/citations?user=Ra09PtQAAAAJ&hl=en">Google Scholar page</a> <br /> <a href="https://www.researchgate.net/profile/George-Heath-3">ResearchGate page</a> 
 </p>
 
+## 2024
+[NanoLocz: Image Analysis Platform for AFM, High-Speed AFM, and Localization AFM](https://onlinelibrary.wiley.com/doi/10.1002/smtd.202301766)\
+Heath GR, Micklethwaite E, Storer TM\
+Small Methods, (2024) 2301766.
+
+## 2023
+High-speed atomic force microscopy: extracting high-resolution information through image analysis.\
+Heath, G.R. *Biophysical Reviews*, (2023) 15 (6), 2065-2068.
+
+BRCA1–BARD1 combines multiple chromatin recognition modules to bridge nascent nucleosomes.\
+Burdett, H., Foglizzo, M., Musgrove, L.J., Kumar, D., Clifford, G., Campbell, L.J., Heath, G.R., Zeqiraj, E. and Wilson, M.D. *Nucleic Acids Research*, (2023) 51 (20), 11080-11103.
 
 ## 2022
-Tuning the rate of aggregation of hIAPP into amyloid using smallmolecule modulators of assembly <br /> 
-Y Xu, R Maya-Martinez, N Guthertz, GR Heath, IW Manfield, A Breeze, F Sobott, R Foster, SE Radford.
-Nature Communications (2022 In press)
+The Native Orthobunyavirus Ribonucleoprotein Possesses a Helical Architecture.\
+Hopkins FR, Álvarez-Rodríguez, B., Heath G. R., Panayi K, Hover S, Edwards TA, Barr JN and Fontana J. *Mbio*, (2022), 13, 4.
+
+Single residue modulators of amyloid formation in the N-terminal P1-region of α-synuclein.\
+Ulamec SM, Maya-Martinez R, Byrd EJ, Dewison KM, Xu Y, Willis LF, Sobott F, Heath GR, van Oosten Hawle P, Buchman VL and Radford SE.
+*Nature Communications*, (2022), 13, 1-16.
+
+Tuning the rate of aggregation of hIAPP into amyloid using small molecule modulators of assembly.\
+Xu Y., Maya-Martinez R., Guthertz N, Heath G. R., Manfield I. W., Breeze A., Sobott F., Foster R., Radford S. E. *Nature Communications*, (2022) 13, 1-15.
 
 ## 2021
 [Correlation of membrane protein conformational and functional dynamics](https://www.nature.com/articles/s41467-021-24660-1)  <br /> 
