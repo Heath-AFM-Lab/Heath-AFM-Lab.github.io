@@ -3,19 +3,59 @@ layout: page
 title: Research
 cover-img: /assets/img/hs_trace.png
 ---
-The rapid expansion in the structural understanding of proteins through recent progress in electron microscopy and X-ray crystallography is leading to an ever-greater need for techniques which give high temporal resolution dynamics. High-Speed Atomic Force Microscopy (HS-AFM) provides unprecedented real-space and real-time visualisation of biological molecules (<1 nm lateral, ~0.1 nm vertical and >100 ms temporal resolution). My research interests are focused on developing techniques to study the structure and dynamics of biomolecules at previously inaccessible time and spatial resolutions using atomic force microscopy. In doing this we aim use physics and physical tools to better understand biological processes related to health and disease.
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
 
-##  <span style="color:orange">Current major research areas </span>
-- Developing high-speed atomic force microscopy methods for microseconds and sub-nm resolution
-- Conformational dynamics of TRPC ion channels in response to small molecules
-- Force response and structural dynamics of mechanosensitive ion channels
+  h1, h2, h3, h4, h5, h6 {
+    color: #FFA500;
+  border-bottom: 2px solid #FFA500; /* Bright orange border */
+  padding-bottom: 5px; /* Adds space between the text and the border */
+  }
 
-## <span style="color:orange">High-speed-AFM method development</span>
+</style>
+
+## Research areas 
+- [Structural Dynamics of Single Molecules](#structural-dynamics-of-single-molecules)
+- [AFM Software](#afm-software)
+- [Localization AFM](#localization-afm)
+- [High-Speed AFM Height Spectroscopy](#high-speed-afm-height-spectroscopy)
+- [Dynamics of Lipid Membranes](#dynamics-of-lipid-membranes)
+
+## Structural Dynamics of Single Molecules
+
+The rapid expansion in the structural understanding of proteins through recent progress in electron microscopy and X-ray crystallography is leading to an ever-greater need for techniques which give high temporal resolution dynamics. High-Speed Atomic Force Microscopy (HS-AFM) provides unprecedented real-space and real-time visualisation of biological molecules (<1 nm lateral, ~0.1 nm vertical and >100 ms temporal resolution). Our research interests are focused on developing techniques to study the structure and dynamics of biomolecules at previously inaccessible time and spatial resolutions using atomic force microscopy. In doing this we aim use physics and physical tools to better understand biological processes related to health and disease.
+
+<img src="/assets/img/CLC.gif" alt="CLC" style="width:50%;">
+ 
+## AFM Software
+We develop open-source software for the analysis of AFM data with the aim of improving analysis, throughput and access to data. Visit our [software page](https://heath-afm-lab.github.io/software/) for details of available software.
+
+![Capture](https://github.com/Heath-AFM-Lab/Heath-AFM-Lab.github.io/assets/121131585/6abba0e6-1b9f-4d27-8c1e-aaea02f5e336)
+
+[NanoLocz: Image Analysis Platform for AFM, High-Speed AFM, and Localization AFM](https://onlinelibrary.wiley.com/doi/10.1002/smtd.202301766)\
+Heath GR, Micklethwaite E, Storer TM\
+Small Methods, (2024) 2301766.
+
+## Localization AFM
+Localization AFM (LAFM) is a technique developed to overcome current resolution limitations in AFM. By applying localization image reconstruction algorithms to peak positions in high-speed AFM and conventional AFM data, we increase the resolution beyond the limits set by the tip radius, and resolve single amino acid residues on soft protein surfaces in native and dynamic conditions. LAFM enables the calculation of high-resolution maps from either images of many molecules or many images of a single molecule acquired over time, facilitating single-molecule structural analysis. LAFM is a post-acquisition image reconstruction method that can be applied to any biomolecular AFM dataset.
+
+<img src="/assets/img/LAFM Aqpz.gif">
+
+[Localization Atomic Force Microscopy](https://www.nature.com/articles/s41586-021-03551-x) <br /> 
+Heath GR, Kots E, Robertson JL, Lansky S, G Khelashvili, Weinstein H & Scheuring S.\
+*Nature*, 594, 7863 (2021).
+
+## High-Speed AFM Height Spectroscopy
 We have recently developed HS-AFM to increase the already pioneering 100ms time resolution to 10μs. This 10,000-fold leap in acquisition rate is achieved by no longer scanning the surface with a tip, but by holding it at a single point of interest and studying the dynamics of molecules underneath. This offers the capability to directly study how protein dynamics can be modulated by various small molecules and stimuli to inform the pursuit of therapeutics.
 
-## <span style="color:orange">TRPC ion channel structural dynamics</span>
-Transient receptor potential canonical (TRPC) 1/4/5 channels are found in many cell types including the nervous and cardiovascular systems, where they form nonselective cationic channels with high calcium permeability. Structural and mechanical knowledge of these channels is rapidly evolving, suggesting TRPC1/4/5 assemblies play crucial roles in human physiology and pathology, and consequently are potential drug targets for renal failure, anxiety, cancer, pain, and cardiac remodeling. Our goal is to study the dynamic structural changes in TRPC1/4/5 assemblies reconstituted into near-native membranes as a function of modulators by high speed AFM. The mechanisms we aim to uncover will not only be applicable to TRPC but also to all other TRP and heteromeric ion channels.
+[High-Speed AFM Height Spectroscopy (HS-AFM-HS): μs dynamics of unlabeled biomolecules](https://www.nature.com/articles/s41467-018-07512-3) <br />
+Heath GR & Scheuring S. *Nature Communications*, 9, 1, (2018)
 
-## <span style="color:orange">Pushing and imaging mechanosensitive channels</span>
-Mechanosensitive channels are found throughout all kingdoms of life acting as sensors for a number of systems including touch, hearing, gravity, osmotic pressure and cardiovascular regulation. Embedded within lipid membranes, these pressure sensitive channels sense and open upon specific mechanical stimuli allowing certain molecules to enter or exit the cells. In humans they are vital for many physiological functions and a number of specific genetic mutations within these channels have been implicated in several diseases. Despite their fundamental importance, the molecular mechanism of how these channels respond to membrane tension is not well understood. We aim to utilize HS-AFM to both apply force and monitor conformational dynamics of single membrane protein channels in real-time at the nanoscale.
+<img src="/assets/img/hs_trace.png">
+
+## Dynamics of Lipid Membranes
+
 
