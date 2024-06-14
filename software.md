@@ -3,6 +3,24 @@ layout: page
 title: Software
 cover-img: /assets/img/Braile.png
 ---
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+
+  a {
+    color: white;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #FFA500;
+  border-bottom: 2px solid #FFA500; /* Bright orange border */
+  padding-bottom: 5px; /* Adds space between the text and the border */
+  }
+
+</style>
+
 Open codes developed for analyzing AFM data.
 
 ## [NanoLocz](https://github.com/George-R-Heath/NanoLocz) <img src="https://github.com/George-R-Heath/NanoLocz/assets/90329395/ecb7d878-0bfa-4d41-8b0e-16309cd8be42" width="50">
