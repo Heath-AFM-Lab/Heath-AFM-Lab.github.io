@@ -2,7 +2,7 @@
 layout: page
 title: Meet the Team
 ---
-<!DOCTYPE html>
+
 <html>
 <head>
   <style>
@@ -33,7 +33,7 @@ title: Meet the Team
 </head>
 <body>
   <p>We conduct our research as part of the larger, collaborative <a href="https://mnp.leeds.ac.uk">Molecular and Nanoscale Physics Group</a>, benefiting from shared academic supervision and facilities.</p>
-  
+  <p></p>
   <div class="image-container">
     <img src="/assets/img/george.jpg" alt="George Heath">
     <div>
