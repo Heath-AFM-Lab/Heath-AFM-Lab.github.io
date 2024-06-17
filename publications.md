@@ -28,21 +28,21 @@ Heath GR, Micklethwaite E, Storer TM\
 Small Methods, (2024) 2301766.
 
 ## 2023
-High-speed atomic force microscopy: extracting high-resolution information through image analysis.\
+[High-speed atomic force microscopy: extracting high-resolution information through image analysis](https://link.springer.com/article/10.1007/s12551-023-01168-0)\
 Heath, G.R. *Biophysical Reviews*, (2023) 15 (6), 2065-2068.
 
-BRCA1–BARD1 combines multiple chromatin recognition modules to bridge nascent nucleosomes.\
+[BRCA1–BARD1 combines multiple chromatin recognition modules to bridge nascent nucleosomes](https://academic.oup.com/nar/article/51/20/11080/7308685)\
 Burdett, H., Foglizzo, M., Musgrove, L.J., Kumar, D., Clifford, G., Campbell, L.J., Heath, G.R., Zeqiraj, E. and Wilson, M.D. *Nucleic Acids Research*, (2023) 51 (20), 11080-11103.
 
 ## 2022
-The Native Orthobunyavirus Ribonucleoprotein Possesses a Helical Architecture.\
+[The Native Orthobunyavirus Ribonucleoprotein Possesses a Helical Architecture](https://journals.asm.org/doi/full/10.1128/mbio.01405-22)\
 Hopkins FR, Álvarez-Rodríguez, B., Heath G. R., Panayi K, Hover S, Edwards TA, Barr JN and Fontana J. *Mbio*, (2022), 13, 4.
 
-Single residue modulators of amyloid formation in the N-terminal P1-region of α-synuclein.\
+[Single residue modulators of amyloid formation in the N-terminal P1-region of α-synuclein](https://www.nature.com/articles/s41467-022-32687-1)\
 Ulamec SM, Maya-Martinez R, Byrd EJ, Dewison KM, Xu Y, Willis LF, Sobott F, Heath GR, van Oosten Hawle P, Buchman VL and Radford SE.
 *Nature Communications*, (2022), 13, 1-16.
 
-Tuning the rate of aggregation of hIAPP into amyloid using small molecule modulators of assembly.\
+[Tuning the rate of aggregation of hIAPP into amyloid using small molecule modulators of assembly](https://www.nature.com/articles/s41467-022-28660-7)\
 Xu Y., Maya-Martinez R., Guthertz N, Heath G. R., Manfield I. W., Breeze A., Sobott F., Foster R., Radford S. E. *Nature Communications*, (2022) 13, 1-15.
 
 ## 2021
