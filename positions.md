@@ -16,7 +16,7 @@ cover-img: /assets/img/tips.jpeg
 
 </style>
 
-## PhD Positions</h2>
+## PhD Positions
 Coming later in 2024
 
 ## Postdoctoral Positions
