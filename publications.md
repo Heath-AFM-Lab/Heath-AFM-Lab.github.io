@@ -8,7 +8,7 @@ cover-img: /assets/img/publications.png
     color: white;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h2, h3, h4, h5, h6 {
     color: #FFA500;
   border-bottom: 2px solid #FFA500; /* Bright orange border */
   padding-bottom: 5px; /* Adds space between the text and the border */
