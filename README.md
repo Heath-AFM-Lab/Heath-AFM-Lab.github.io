@@ -1,4 +1,6 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
+# https://heath-afm-lab.github.io/
+Research lab webpage generated using Beautiful Jekyll - https://heath-afm-lab.github.io/
+
 
 # Beautiful Jekyll
 
