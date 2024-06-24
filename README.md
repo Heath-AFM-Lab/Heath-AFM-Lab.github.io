@@ -1,5 +1,6 @@
 # https://heath-afm-lab.github.io/
-Research lab webpage generated using Beautiful Jekyll - https://heath-afm-lab.github.io/
+
+Research lab webpage generated using Beautiful Jekyll:
 
 
 # Beautiful Jekyll
