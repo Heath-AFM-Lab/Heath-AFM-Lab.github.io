@@ -11,7 +11,7 @@ cover-img: /assets/img/tape.jpeg
 <iframe src="https://www.youtube.com/embed/STA5EVkzjk8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="text-align: center;">Protein Society Webinar - High-speed atomic force microscopy (HS-AFM) for the study of protein structure and dynamics</p>
 <br>
-<iframe src="https://www.youtube.com/embed/STA5EVkzjk8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/rZoR4-p72i4?si=5W7rF7HHfNoDqctV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="text-align: center;">NanoLocz: Image Analysis Platform for AFM, High-Speed AFM, and Localization AFM</p>
 
 BRUKER BIOAFM WEBINARS [High-Speed AFM: Fundamentals, Applications, and Integration with Advanced Optical Techniques](https://www.bruker.com/en/news-and-events/webinars/2024/high-speed-afm-fundamentals-applications-and-integration-with-advanced-optical-techniques.html)
