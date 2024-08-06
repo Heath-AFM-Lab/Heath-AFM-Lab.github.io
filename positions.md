@@ -20,7 +20,7 @@ cover-img: /assets/img/tips.jpeg
 Coming later in 2024
 
 ## Postdoctoral Positions
-* Funded position coming later in 2024
+* [2-year Funded PostDoc Position - Closing Date: 1st September 2024](https://jobs.leeds.ac.uk/Vacancy.aspx?ref=EPSPA1117)
 * Open to support fellowship applications
 
 ## Contact
