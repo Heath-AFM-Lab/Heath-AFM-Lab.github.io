@@ -17,10 +17,15 @@ cover-img: /assets/img/tips.jpeg
 </style>
 
 ## PhD Positions
-Coming later in 2024
+* [Real-Time Control and Analysis of Molecular Dynamics Using High-Speed AFM Height Spectroscopy Mapping](https://phd.leeds.ac.uk/project/836-real-time-control-and-analysis-of-molecular-dynamics-using-high-speed-afm-height-spectroscopy-mapping)\
+Supervisors: George Heath 
+
+* [Solar at the Nanoscale: High-resolution Mapping of Light-Harvesting Proteins with High-Speed Atomic Force Microscopy](https://phd.leeds.ac.uk/project/1708-solar-at-the-nanoscale:-high-resolution-mapping-of-light-harvesting-proteins-with-high-speed-atomic-force-microscopy)\
+Supervisors: George Heath and Peter Adams 
+* [Life pushed to extremes: probing the mechanisms of chromosome segregation in thermophilic Archaea](https://www.findaphd.com/phds/project/life-pushed-to-extremes-probing-the-mechanisms-of-chromosome-segregation-in-thermophilic-archaea/?p178083)\
+Supervisors: Daniela Barillà, Steven Quinn & George Heath 
 
 ## Postdoctoral Positions
-* [2-year Funded PostDoc Position - Closing Date: 1st September 2024](https://jobs.leeds.ac.uk/Vacancy.aspx?ref=EPSPA1117)
 * Open to support fellowship applications
 
 ## Contact
