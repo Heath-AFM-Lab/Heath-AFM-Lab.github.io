@@ -60,7 +60,7 @@ title: Meet the Team
       <h2>Daniel (Eddie) Rollins</h2>
       <h4>PostDoc</h4>
       <p>Development of Localization AFM methods</p>
-       <p> <a href="https://www.linkedin.com/in/daniel-eddie-rollins-25780712a/">Linkedin</a></p>
+       <p> <a href="https://www.linkedin.com/in/daniel-eddie-rollins-25780712a/">LinkedIn</a></p>
     </div>
   </div>
 
@@ -70,7 +70,7 @@ title: Meet the Team
       <h2>Varun Gupta</h2>
       <h4>PostDoc</h4>
       <p>Development of Localization AFM methods</p>
-      <p> <a href="https://www.linkedin.com/in/varungupt4/">Linkedin</a></p>
+      <p> <a href="https://www.linkedin.com/in/varungupt4/">LinkedIn</a></p>
     </div>
   </div>
 
@@ -91,18 +91,18 @@ title: Meet the Team
       <h4>PhD Student</h4>
       <p>Development of Localization AFM and High-Speed AFM methods</p>
       <p>Co-supervised by Neil Thomson</p>
-      <p> <a href="https://www.linkedin.com/in/tabitha-storer-b309b5337/">Linkedin</a></p>
+      <p> <a href="https://www.linkedin.com/in/tabitha-storer-b309b5337/">LinkedIn</a></p>
     </div>
   </div>
   
   <div class="image-container">
-    <img src="/assets/img/BlankProfile.jpg" alt="Maya Tekchandani">
+    <img src="/assets/img/Maya.jpeg" alt="Maya Tekchandani">
     <div>
       <h2>Maya Tekchandani</h2>
       <h4>PhD Student</h4>
       <p>Development of AFM methods and dynamics of lipid membranes</p>
       <p>Co-supervised by Peter Adams and Stephen Evans</p>
-      <p> <a href="https://www.linkedin.com/in/maya-tekchandani-308a59204/">Linkedin</a></p>
+      <p> <a href="https://www.linkedin.com/in/maya-tekchandani-308a59204/">LinkedIn</a></p>
     </div>
   </div>
 </body>
